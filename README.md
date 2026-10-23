@@ -24,6 +24,7 @@ Quote-Generator/
 │── index.html
 │── style.css
 │── script.js
+│──main.png
 └── README.md
 ```
 
